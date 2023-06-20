@@ -1,1 +1,3 @@
 # UASPPW1_499593_RUMAHSAKIT
+Nama   : Andhika Yoga Pratama
+NIM    : 22/499593/SV/21342
