@@ -3,7 +3,7 @@ Nama   : Andhika Yoga Pratama
 NIM    : 22/499593/SV/21342
 
 1. Sesuai dengan prinsip desain <br>
-   Desain yang ada pada landing page telah sesuai dengan prinsip desain. tampilan yang terlihat jelas dan feedback pada pengguna ketika mengarahkan kursor ke suatu elemen.
+   Desain yang ada pada landing page telah sesuai dengan prinsip desain. tampilan yang terlihat jelas dan feedback pada pengguna ketika mengarahkan kursor ke suatu elemen. Kombinasi warna cerah dan gelap yang nyaman di mata dan memudahkan user dalam membaca elemen dari website.
    ![image](https://github.com/Ayaya62/UASPPW1_499593_RUMAHSAKIT/assets/109938799/526df230-42b5-4ab9-8162-faada110ab58)
 ![image](https://github.com/Ayaya62/UASPPW1_499593_RUMAHSAKIT/assets/109938799/098f69d2-f781-4c0e-9bda-da716c5865bb)
 ![image](https://github.com/Ayaya62/UASPPW1_499593_RUMAHSAKIT/assets/109938799/711d2466-7092-4f17-9f18-b893ca0aeedb)
