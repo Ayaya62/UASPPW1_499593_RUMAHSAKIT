@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "League Spartan", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  transition: all 0.4 ease;
+}
+
+.btn {
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  color: #fff;
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+
+.card {
+  transition: all 0.5s ease;
+}
+.card:hover {
+  transform: scale(1.05);
+  transition: all 0.5s ease;
+}
+
+.navbar {
+  transition: all 0.5s ease;
+}
+.navbar-scrolled {
+  background-color: #1f1f1f;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.heading,
+.contact {
+  padding-top: 7rem;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(../image/hero-bg.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.services {
+  background-color: #cddeff;
+}
+
+.menu {
+  background-color: #f8f9fd;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.about {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../image/about-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.icon-size {
+  font-size: 120px;
+}
+
+.review {
+  box-shadow: 0 12px 12px rgba(0, 0, 0, 0.1);
+}
+
+.random-line {
+  width: 100%;
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 0;
+  padding: 0;
+}
